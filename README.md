@@ -1,6 +1,17 @@
 # Crime Data Analysis in India (2001–2012)
 
+Quick Summary
+
+Dataset: 12 years of crime statistics across Indian states (published by the National Crime Records Bureau (NCRB), Government of India)
+Tools: Tableau, KNIME  
+Focus: Crimes against women  
+Output: Interactive dashboards and analytical insights
+
+This project demonstrates a complete analytics workflow from
+data preprocessing to insight generation using visual dashboards.
+
 ![Dashboard Preview](https://github.com/SanaNarmawala/crime-analysis/blob/main/dashboards/dashboard_crime_trends.jpg)
+
 
 ## Project Overview
 
@@ -105,7 +116,6 @@ This visualization tracks changes in crime levels across the 12-year period, hel
 ![Dashboard](https://github.com/SanaNarmawala/crime-analysis/blob/main/dashboards/dashboard_crime_trends.jpg)
 
 ---
-
 
 ## Key Insights
 
